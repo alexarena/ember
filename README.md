@@ -10,9 +10,7 @@ Currently, Ember supports the following event providers:
 
 Ember is really easy to set up.
 
-1. Get an API Key from OrgSync and store it a file named `.env` with the following structure:
-
-`ORGSYNC_API_KEY=[your key]`
+1. Get an API Key from OrgSync and store it a file named `.env` with the following structure: `ORGSYNC_API_KEY=[your key]`
 
 2. Run `npm start`
 
